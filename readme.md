@@ -35,6 +35,19 @@ Awesome packages, articles, tips and people all around Meteor.js
 
 <!-- CONTENT -->
 
+## :ballot_box_with_check: Features & Capabilities
+
+- Battle-tested, backward compatible with a track record to prove and stable, forget about the [JavaScript fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4) and focus on your business
+  [Differential bundling](https://blog.meteor.com/meteor-1-7-and-the-evergreen-dream-a8c1270b0901) (which is awesome)
+- Dynamic imports
+- Built-in TypeScript
+- Support for React, Svelte, Agular, and Blaze (which is still great, all supported views have tutorials)
+- Meteor Vue with HMR 19
+- Support for SQL with real-time 25 maintained by @vlasky (this link had 11 clicks and got rested, many seems interested in it!)
+- Much faster build times and MUP support thanks to zodern
+- NPM support
+- SSR Support
+
 ## Featured (new releases)
 
 - [Meteor 2.13.1](https://docs.meteor.com/changelog#v213120230904) - Current recommended release
@@ -47,7 +60,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 
 ## Packages
 
-- 
+-
 
 ## Guides
 
@@ -62,6 +75,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+
 - Jan Dvořák [GitHub](https://github.com/sponsors/storytellercz), [Twitter](https://twitter.com/storytellercz), [Meteor Forums](https://forums.meteor.com/u/storyteller)
 - Jan Küster [GitHub](https://github.com/sponsors/jankapunkt), [Twitter](https://twitter.com/Kuester_Jan), [Meteor Forums](https://forums.meteor.com/u/jkuester)
 - Alim Gafar [Twitter](https://twitter.com/storytellercz), [Meteor Forums](https://forums.meteor.com/u/alimgafar)
