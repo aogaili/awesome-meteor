@@ -13,7 +13,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="./assets/awesome.png" />
 </a>
 
 <!-- description -->
