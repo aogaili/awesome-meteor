@@ -98,6 +98,7 @@ Note if you are deploying outside of Galaxy and your business is profitable then
 - Join our [Meteor Community Slack workspace](https://forums.meteor.com/t/awesome-meteor-list/52981) 
     - Slack bots for new and updates to Atmosphere packages, join the #packges channel 
     - Stack overflow integration  
+- Subscribe to the [Meteor community YouTube channel](https://www.youtube.com/@meteorjscommunity), lots of great content []
 - There is also [Meteor](https://discord.com/invite/bnf2Hju) and [Meteor Community](https://discord.com/invite/8E4SKQF) discord groups 
 - Check out [Tiny Capital](https://www.tiny.com/), the wonderful Meteor investor with a history of passion for internet businesses and long-term investment
 - Check out the [Meteor Wikipedia](https://en.wikipedia.org/wiki/Meteor_(web_framework)) page 
