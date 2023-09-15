@@ -90,6 +90,7 @@ Note if you are deploying outside of Galaxy and your business is profitable then
 - [Packosphere](https://packosphere.com/)
 - [Meteor Dev Tools](https://forums.meteor.com/t/meteor-devtools-evolved/52017): Chrome extension for inspecting Meteor clients
 - [Make CLI](https://github.com/maka-io/maka-cli): Maka-CLI is a command-line tool, which organizes a web application’s file structure and automates everyday package installation tasks for various application frameworks (i.e., React, GraphQL, Rest API, Material-UI, Jasmine / Mocha Tests).
+- [Meteor Toolbox - VS Code](https://marketplace.visualstudio.com/items?itemName=meteor-toolbox.meteor-toolbox): Extension to enable IntelliSense for Meteor core, added packages and custom packages. Also adds launch configurations for the browser (run/debug).
 
 ## 🏠 Community
 
