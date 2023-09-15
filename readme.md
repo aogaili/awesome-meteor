@@ -120,6 +120,7 @@ Note if you are deploying outside of Galaxy and your business is profitable then
 - PWA Support
    – [Meteor PWA Explained](https://github.com/activitree/Meteor-PWA-Explained): Demonstrate the use of PWA and service workers in Meteor 1.8+ Project
    – [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
+- [Meteor and React Native](https://dev.to/jankapunkt/meteor-and-react-native-create-a-native-mobile-app-2ile): A full-scale workshop to create a mobile app with React-Native and Meteor.
 
  ## 😎 Awesome Meteor Developers
 
@@ -133,8 +134,9 @@ Do support the Meteor open-source community by sponsoring those awesome members 
    - copleykj [Sponsor](https://github.com/sponsors/copleykj) 
    - mitar [Sponsor](https://github.com/sponsors/mitar) 
    - wreiske [Sponsor](https://github.com/sponsors/wreiske) 
-   - zimme [Sponsor](https://github.com/sponsors/zimme) 
-   
+   - zimme [Sponsor](https://github.com/sponsors/zimme)
+   - jankapunkt [Sponsor](https://github.com/sponsors/jankapunkt) 
+
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
